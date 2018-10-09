@@ -1,4 +1,4 @@
-# Hackaton XLS parser
+# Hackathon XLS parser
 This is a simple code sample used to parse data from an Excel file, then either :
 
 * make API calls for each row
